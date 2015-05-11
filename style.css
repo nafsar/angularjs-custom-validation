@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+}
+input {
+	width: 200px;
+	margin: 0 auto;
+	padding: 15px;
+	margin: 15px;
+	border: solid 2px;
+	color: #797C80;
+}
+span {
+	padding: 0px;
+	color: #FF0000;
+}
+
+.error-message {
+	width: 600px;
+	font-size: 14px;
+	color: #797C80;
+}
